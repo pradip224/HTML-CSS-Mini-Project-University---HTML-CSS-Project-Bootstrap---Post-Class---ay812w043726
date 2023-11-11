@@ -1,6 +1,6 @@
 # World's Biggest University Website
 
-This project is a website design for the World's Biggest University using HTML and CSS. It includes various pages such as the Home Page, About Page, Course Page, and Contact Page. The website is fully responsive and features a navigation menu to easily navigate between different pages. Additionally, it includes a footer with relevant information.
+This project is the website design for the World's Biggest University using HTML and CSS. It includes various pages such as the Home Page, About Page, Course Page, and Contact Page. The website is fully responsive and features a navigation menu to easily navigate between different pages. Additionally, it includes a footer with relevant information.
 
 ## Pages
 
